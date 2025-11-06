@@ -27,9 +27,9 @@ I'm looking for new opportunities and always happy to connect.
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [**FEMA Aid Equity Analysis**](https://github.com/ex-pr/fema-equity-analysis](https://github.com/ex-pr/projects/tree/main/research_paper) | Analyzed 890K FEMA disaster aid records to uncover underfunding patterns using XGBoost and SHAP | Python, Pandas, XGBoost, SHAP, GeoPandas |
-| [**Grocery on a Budget**](https://github.com/ex-pr/grocery-on-budget](https://github.com/ex-pr/projects/tree/main/grocery_optimization) | Built a convex optimization model that finds the cheapest weekly meal plan meeting all USDA nutrient targets | Python, CVXPY, Pandas, Matplotlib |
-| [**Heart Disease Prediction**]([https://github.com/ex-pr/heart-disease-ml](https://github.com/ex-pr/projects/blob/main/Heart_attack.ipynb)) | Predicted heart disease risk using Random Forest and SVM models, improving recall by 18% | Python, Scikit Learn, Pandas |
+| [**FEMA Aid Equity Analysis**](https://github.com/ex-pr/projects/tree/main/research_paper) | Analyzed 890K FEMA disaster aid records to uncover underfunding patterns using XGBoost and SHAP | Python, Pandas, XGBoost, SHAP, GeoPandas |
+| [**Grocery on a Budget**](https://github.com/ex-pr/projects/tree/main/grocery_optimization) | Built a convex optimization model that finds the cheapest weekly meal plan meeting all USDA nutrient targets | Python, CVXPY, Pandas, Matplotlib |
+| [**Heart Disease Prediction**](https://github.com/ex-pr/projects/blob/main/Heart_attack.ipynb) | Predicted heart disease risk using Random Forest and SVM models, improving recall by 18% | Python, Scikit Learn, Pandas |
 
 ## 🛠️ Skills & Tools
 **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, MySQL), AWS (S3), Azure, Apache Spark, Kafka, Docker, Git, REST APIs, Jupyter, Power BI, Tableau, R.  
@@ -50,5 +50,6 @@ I'm looking for new opportunities and always happy to connect.
 
 **Let's build something amazing together. I'm always open to collaborate, share knowledge, or discuss new ideas. Reach out, I'd love to hear from you.** ✨
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/](https://github.com/ex-pr)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://linkedin.com/in/daria-dubovskaia)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ex-pr)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daria-dubovskaia)
+
