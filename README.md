@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Daria
 
-💡 **Data Scientist | Machine Learning Engineer | Data Engineer**
+💡 **Data Scientist | Data Engineer | Machine Learning**
 
 I'm a Data Scientist and Machine Learning Engineer with an engineering background in rocket propulsion.  
 I like solving messy real world problems with clean logic and data. I work across the stack from collecting and cleaning data to building models and explaining results in a simple way.
